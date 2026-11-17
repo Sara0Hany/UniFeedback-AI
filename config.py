@@ -1,0 +1,10 @@
+
+OLLAMA_URL = "http://localhost:11434/api/chat"
+
+MODEL_NAME = "qwen2.5:3b"
+
+TEMPERATURE = 0.2
+
+MAX_OUTPUT_TOKENS = 500
+
+REQUEST_TIMEOUT = 120

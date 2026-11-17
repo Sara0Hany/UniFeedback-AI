@@ -1,0 +1,45 @@
+
+# =================================
+# Python
+# =================================
+__pycache__/
+*.py[cod]
+
+# =================================
+# Virtual Environments
+# =================================
+venv/
+.venv/
+
+# =================================
+# IDE Settings
+# =================================
+.vscode/
+.idea/
+
+# =================================
+# Environment and Secrets
+# =================================
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# =================================
+# Temporary Files
+# =================================
+*.log
+.DS_Store
+Thumbs.db
+
+# =================================
+# Generated Evaluation Results
+# =================================
+data/duplicates_test.csv
+data/empty_test.csv
+data/wrong_column.csv
+data/parameter_test.csv
+data/experiment_*.csv
+data/evaluation_results.csv
+data/final_evaluation_results.csv
+data/unifeedback_analysis*.csv

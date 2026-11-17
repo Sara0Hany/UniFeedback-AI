@@ -1,0 +1,17 @@
+
+review,actual_sentiment
+"The professor explains concepts very clearly.",Positive
+"The exams are much harder than the lecture examples.",Negative
+"The laboratory sessions are very useful.",Positive
+"The course materials are outdated and need improvement.",Negative
+"I really enjoy this course and the teaching style.",Positive
+"There is too much homework every week.",Negative
+"The professor is helpful and answers questions.",Positive
+"The lectures are too fast and difficult to follow.",Negative
+"The exams are fair and well organized.",Positive
+"The laboratory equipment needs maintenance.",Negative
+"The course is okay, nothing special.",Neutral
+"The teaching is excellent but the exams are difficult.",Mixed
+"I don't understand the grading system.",Negative
+"The lecture notes are helpful and well structured.",Positive
+"The workload is too high compared to other courses.",Negative
